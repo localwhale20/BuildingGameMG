@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>E:/desktop/Projects/BuildingGame/Content/Textures/SpriteSheet.png</SourceFile>
+  <SourceFile>e:/desktop/Projects/BuildingGame/Content/Textures/SpriteSheet.png</SourceFile>
   <SourceTime>2023-01-12T17:33:09.238756+02:00</SourceTime>
-  <DestFile>E:/desktop/Projects/BuildingGame/Content/bin/Windows/Content/Textures/SpriteSheet.xnb</DestFile>
-  <DestTime>2023-01-28T22:04:38.4638043+02:00</DestTime>
+  <DestFile>e:/desktop/Projects/BuildingGame/Content/bin/Windows/Content/Textures/SpriteSheet.xnb</DestFile>
+  <DestTime>2023-01-28T22:26:58.6240157+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T19:17:54+03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -1,4 +1,4 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"E:/desktop/Projects/BuildingGame/Content/Fonts/Debug.spritefont","E:/desktop/Projects/BuildingGame/Content/bin/Windows/Content/Fonts/Debug.xnb","FontDescriptionProcessor","SpriteFontContent",2016,21538,1.3825378
-"E:/desktop/Projects/BuildingGame/Content/Fonts/UserNameFont.spritefont","E:/desktop/Projects/BuildingGame/Content/bin/Windows/Content/Fonts/UserNameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2011,85915,1.9478436
-"E:/desktop/Projects/BuildingGame/Content/Textures/SpriteSheet.png","E:/desktop/Projects/BuildingGame/Content/bin/Windows/Content/Textures/SpriteSheet.xnb","TextureProcessor","Texture2DContent",5445,41045,0.1360744
+"e:/desktop/Projects/BuildingGame/Content/Fonts/Debug.spritefont","e:/desktop/Projects/BuildingGame/Content/bin/Windows/Content/Fonts/Debug.xnb","FontDescriptionProcessor","SpriteFontContent",2016,21538,4.002993
+"e:/desktop/Projects/BuildingGame/Content/Fonts/UserNameFont.spritefont","e:/desktop/Projects/BuildingGame/Content/bin/Windows/Content/Fonts/UserNameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2011,85915,1.4176669
+"e:/desktop/Projects/BuildingGame/Content/Textures/SpriteSheet.png","e:/desktop/Projects/BuildingGame/Content/bin/Windows/Content/Textures/SpriteSheet.xnb","TextureProcessor","Texture2DContent",5445,41045,2.533691

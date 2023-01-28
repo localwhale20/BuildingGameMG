@@ -101,7 +101,7 @@ public class Game : Microsoft.Xna.Framework.Game
             _client = Client.Create(local, username);
             Log.Debug("Client info:\n\t- Username: " + _client.Username + "\n\t- Server: " + _client.EndPoint);
             _server.Init();
-            _client.Connect();
+            await _client.ConnectAsync();
             
 
             _desktop.Root = _root;
@@ -111,7 +111,7 @@ public class Game : Microsoft.Xna.Framework.Game
 
             _client = Client.Create(new IPEndPoint(IPAddress.Parse(address), 1928), username);
             try{
-                _client.Connect();
+                await _client.ConnectAsync();
             } catch (System.Exception ex) { 
                 Dialog.CreateMessageBox(
                     "Conection Trouble", 
@@ -177,7 +177,7 @@ public class Game : Microsoft.Xna.Framework.Game
 
                 if (_client.Connected){
                     var packet = PacketMaker.CreateTileStatePacket(pos, tile.Type.GetIndex());
-                    _client.SendToServer(packet);
+                    await _client.SendToServerAsync(packet);
                 }
             }
             if (mouse.RightButton == ButtonState.Pressed){
@@ -191,7 +191,7 @@ public class Game : Microsoft.Xna.Framework.Game
 
                 if (_client.Connected) {
                     var packet = PacketMaker.CreateTileStatePacket(pos, -1);
-                    _client.SendToServer(packet);
+                    await _client.SendToServerAsync(packet);
                 }
             }
 

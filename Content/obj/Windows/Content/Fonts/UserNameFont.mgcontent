@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>E:/desktop/Projects/BuildingGame/Content/Fonts/UserNameFont.spritefont</SourceFile>
+  <SourceFile>e:/desktop/Projects/BuildingGame/Content/Fonts/UserNameFont.spritefont</SourceFile>
   <SourceTime>2023-01-12T22:07:09.4120846+02:00</SourceTime>
-  <DestFile>E:/desktop/Projects/BuildingGame/Content/bin/Windows/Content/Fonts/UserNameFont.xnb</DestFile>
-  <DestTime>2023-01-28T22:04:38.3028972+02:00</DestTime>
+  <DestFile>e:/desktop/Projects/BuildingGame/Content/bin/Windows/Content/Fonts/UserNameFont.xnb</DestFile>
+  <DestTime>2023-01-28T22:26:56.0402351+02:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2020-08-10T19:17:54+03:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>

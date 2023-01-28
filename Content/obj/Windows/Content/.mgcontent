@@ -4,9 +4,9 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>E:/desktop/Projects/BuildingGame/Content/Fonts/Debug.spritefont</File>
-    <File>E:/desktop/Projects/BuildingGame/Content/Fonts/UserNameFont.spritefont</File>
-    <File>E:/desktop/Projects/BuildingGame/Content/Textures/SpriteSheet.png</File>
+    <File>e:/desktop/Projects/BuildingGame/Content/Fonts/Debug.spritefont</File>
+    <File>e:/desktop/Projects/BuildingGame/Content/Fonts/UserNameFont.spritefont</File>
+    <File>e:/desktop/Projects/BuildingGame/Content/Textures/SpriteSheet.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

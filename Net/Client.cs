@@ -1,3 +1,5 @@
+// wenomechinsama
+
 using System.Collections.Generic;
 using System.Net;
 using System.Net.Sockets;
@@ -61,10 +63,10 @@ public class Client : PacketSubscriber, IDisposable{
         return client;
     }
 
-    public void Connect(){
+    public async Task ConnectAsync(){
         listener.Connect(EndPoint);
         var packet = PacketMaker.CreatePlayerStatePacket(listener.LocalEndPoint.ToString(), true);
-        SendToServer(packet);
+        await SendToServerAsync(packet);
         Log.Debug("Trying connect to " + EndPoint + "...");
         Connected = true;
     }
@@ -77,16 +79,14 @@ public class Client : PacketSubscriber, IDisposable{
         InvokePacketHandler(packet);
     }
 
-    public void SendToServer(Packet packet){
-        Log.Debug("Must send packet " + packet.Type);
-        if (listener.Send(Packet.Serialize(packet), SocketFlags.None) != 0) Log.Debug("Sended packet to server");
+    public async Task SendToServerAsync(Packet packet){
+        await listener.SendAsync(Packet.Serialize(packet), SocketFlags.None);
+        await Task.CompletedTask;
     }
 
     public void Dispose()
     {
         Connected = false;
-        var packet = PacketMaker.CreatePlayerStatePacket(Username, false);
-        SendToServer(packet);
         listener.Close();
         Log.Debug("Client is shutting down...");
     }
