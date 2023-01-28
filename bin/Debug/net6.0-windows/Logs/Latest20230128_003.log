@@ -1,0 +1,33 @@
+2023-01-28 12:45:56.223 +02:00 [INF] E:\desktop\Projects\BuildingGame\bin\Debug\net6.0-windows\Logs/Latest.log
+2023-01-28 12:45:57.286 +02:00 [INF] Hello from game!
+2023-01-28 12:46:04.266 +02:00 [INF] Subscribed packet of type TileAction
+2023-01-28 12:46:04.271 +02:00 [DBG] Client ready to use
+2023-01-28 12:46:04.290 +02:00 [DBG] Trying connect to 127.0.0.1:1928...
+2023-01-28 12:46:04.344 +02:00 [INF] Packet PlayerConnect received
+2023-01-28 12:46:04.354 +02:00 [INF] Packet PlayerConnect received
+2023-01-28 12:47:59.297 +02:00 [INF] E:\desktop\Projects\BuildingGame\bin\Debug\net6.0-windows\Logs/Latest.log
+2023-01-28 12:48:00.590 +02:00 [INF] Hello from game!
+2023-01-28 12:48:05.245 +02:00 [DBG] Server will be hosted at 127.0.0.1:1928
+2023-01-28 12:48:05.251 +02:00 [INF] Subscribed packet of type TileAction
+2023-01-28 12:48:05.260 +02:00 [DBG] Client ready to use
+2023-01-28 12:48:05.263 +02:00 [DBG] Client info:
+	- Username: player
+	- Server: 127.0.0.1:1928
+2023-01-28 12:48:05.276 +02:00 [DBG] Server listening at 127.0.0.1:1928
+2023-01-28 12:48:05.328 +02:00 [DBG] Trying connect to 127.0.0.1:1928...
+2023-01-28 12:48:05.437 +02:00 [DBG] PlayerConnect
+2023-01-28 12:48:05.446 +02:00 [INF] Packet PlayerConnect received
+2023-01-28 12:48:05.459 +02:00 [DBG] Resending PlayerConnect
+2023-01-28 12:48:05.485 +02:00 [INF] Packet PlayerConnect received
+2023-01-28 12:48:17.035 +02:00 [DBG] TileAction
+2023-01-28 12:48:17.039 +02:00 [INF] Packet TileAction received
+2023-01-28 12:48:17.043 +02:00 [DBG] Resending TileAction
+2023-01-28 12:48:17.050 +02:00 [DBG] Resending TileAction
+2023-01-28 12:48:17.056 +02:00 [DBG] PlayerConnect
+2023-01-28 12:48:17.059 +02:00 [INF] Packet PlayerConnect received
+2023-01-28 12:48:17.063 +02:00 [DBG] Resending PlayerConnect
+2023-01-28 12:48:17.072 +02:00 [DBG] Resending PlayerConnect
+2023-01-28 12:48:17.076 +02:00 [INF] Packet TileAction received
+2023-01-28 12:48:17.087 +02:00 [DBG] -1
+2023-01-28 12:48:17.091 +02:00 [INF] Packet TileAction received
+2023-01-28 12:48:17.097 +02:00 [DBG] -1

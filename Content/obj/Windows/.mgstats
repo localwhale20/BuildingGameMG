@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/desktop/MonoPlatformer/Content/Fonts/Debug.spritefont","E:/desktop/MonoPlatformer/Content/bin/Windows/Fonts/Debug.xnb","FontDescriptionProcessor","SpriteFontContent",2016,21538,1.7376965
+"E:/desktop/MonoPlatformer/Content/Textures/SpriteSheet.png","E:/desktop/MonoPlatformer/Content/bin/Windows/Textures/SpriteSheet.xnb","TextureProcessor","Texture2DContent",582,65621,0.1974859
+"E:/desktop/MonoPlatformer/Content/Tiled/../Textures/SpriteSheet.png","E:/desktop/MonoPlatformer/Content/bin/Windows/Textures/SpriteSheet_0.xnb","TextureProcessor","Texture2DContent",582,65621,0.0105634
+"E:/desktop/MonoPlatformer/Content/Tiled/TileMap.tmx","E:/desktop/MonoPlatformer/Content/bin/Windows/Tiled/TileMap.xnb","TiledMapProcessor","TiledMapContentItem",1984,158,0.2671789
+"E:/desktop/MonoPlatformer/Content/Tiled/TileSet.tsx","E:/desktop/MonoPlatformer/Content/bin/Windows/Tiled/TileSet.xnb","TiledMapTilesetProcessor","TiledMapTilesetContentItem",325,146,0.1293469

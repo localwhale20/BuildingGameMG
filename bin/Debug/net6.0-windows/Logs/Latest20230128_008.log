@@ -1,0 +1,31 @@
+2023-01-28 13:32:14.146 +02:00 [INF] E:\desktop\Projects\BuildingGame\bin\Debug\net6.0-windows\Logs/Latest.log
+2023-01-28 13:32:15.206 +02:00 [INF] Hello from game!
+2023-01-28 13:32:25.855 +02:00 [INF] Subscribed packet of type TileAction
+2023-01-28 13:32:25.859 +02:00 [DBG] Client ready to use
+2023-01-28 13:32:25.870 +02:00 [DBG] Trying connect to 127.0.0.1:1928...
+2023-01-28 13:32:27.789 +02:00 [INF] Packet PlayerConnect received
+2023-01-28 13:32:27.800 +02:00 [INF] Packet PlayerConnect received
+2023-01-28 22:05:20.596 +02:00 [INF] E:\desktop\Projects\BuildingGame\bin\Debug\net6.0-windows\Logs/Latest.log
+2023-01-28 22:05:28.531 +02:00 [INF] Hello from game!
+2023-01-28 22:05:49.968 +02:00 [DBG] Server will be hosted at 127.0.0.1:1928
+2023-01-28 22:05:50.006 +02:00 [INF] Subscribed packet of type TileAction
+2023-01-28 22:05:50.014 +02:00 [DBG] Client ready to use
+2023-01-28 22:05:50.019 +02:00 [DBG] Client info:
+	- Username: player
+	- Server: 127.0.0.1:1928
+2023-01-28 22:05:50.043 +02:00 [DBG] Server listening at 127.0.0.1:1928
+2023-01-28 22:05:50.163 +02:00 [DBG] Trying connect to 127.0.0.1:1928...
+2023-01-28 22:05:50.285 +02:00 [DBG] PlayerConnect
+2023-01-28 22:05:50.300 +02:00 [INF] Packet PlayerConnect received
+2023-01-28 22:05:50.312 +02:00 [DBG] Resending PlayerConnect
+2023-01-28 22:05:50.315 +02:00 [INF] Packet PlayerConnect received
+2023-01-28 22:05:53.175 +02:00 [DBG] TileAction
+2023-01-28 22:05:53.179 +02:00 [INF] Packet TileAction received
+2023-01-28 22:05:53.182 +02:00 [DBG] Resending TileAction
+2023-01-28 22:05:53.186 +02:00 [DBG] Resending TileAction
+2023-01-28 22:05:53.193 +02:00 [DBG] PlayerConnect
+2023-01-28 22:05:53.202 +02:00 [INF] Packet PlayerConnect received
+2023-01-28 22:05:53.205 +02:00 [DBG] Resending PlayerConnect
+2023-01-28 22:05:53.210 +02:00 [DBG] Resending PlayerConnect
+2023-01-28 22:05:53.215 +02:00 [INF] Packet TileAction received
+2023-01-28 22:05:53.223 +02:00 [INF] Packet TileAction received

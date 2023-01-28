@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/desktop/MonoPlatformer/Content/Tiled/TileSet.tsx</SourceFile>
+  <SourceTime>2023-01-11T23:29:13.9829211+02:00</SourceTime>
+  <DestFile>E:/desktop/MonoPlatformer/Content/bin/Windows/Tiled/TileSet.xnb</DestFile>
+  <DestTime>2023-01-11T23:38:27.518885+02:00</DestTime>
+  <Importer>TiledMapTilesetImporter</Importer>
+  <ImporterTime>2020-08-29T20:17:30+03:00</ImporterTime>
+  <Processor>TiledMapTilesetProcessor</Processor>
+  <ProcessorTime>2020-08-29T20:17:30+03:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset>
+    <string>E:/desktop/MonoPlatformer/Content/bin/Windows/Textures/SpriteSheet_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>

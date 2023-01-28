@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/desktop/MonoPlatformer/Content/Tiled/TileMap.tmx</SourceFile>
+  <SourceTime>2023-01-11T23:29:11.4038887+02:00</SourceTime>
+  <DestFile>E:/desktop/MonoPlatformer/Content/bin/Windows/Tiled/TileMap.xnb</DestFile>
+  <DestTime>2023-01-11T23:38:27.3875329+02:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2020-08-29T20:17:30+03:00</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2020-08-29T20:17:30+03:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
